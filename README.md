@@ -1,1 +1,18 @@
 # flutter_nomad
+## 07.09
+Dart 시작하기 강의 수강 시작!
+
+### 0. 소개 
+정리
+- 다트는 객체지향 언어다.
+- <img width="833" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
+- 다트는 UI에 최적화 되어있다.
+- 생산적인 개발 환경을 가지고 있다.
+- 모든 플랫폼에서 빠르다.
+- 다트는 두 개의 컴파일러를 가지고 있는데, 다트 웹과 다트 네이티브다.
+  - 다트 웹은 다트=>자바스크립트로 변환해주는 컴파일러
+  - 다트 네이티브는 여러 CPU의 아키텍쳐에 맞게 변환해주는데, ARM32 등에 맞게 변환할 수 있다.
+    - 이는 iOS, 안드로이드, 윈도우, 리눅스, 맥으로 컴파일 할 수 있다는 것을 의미한다.
+    - 더 작은 전력의 아키텍쳐로도 변환이 가능하기 때문에 사물인터넷을 만드는데도 사용된다.
+  - <img width="766" alt="image" src="https://github.com/user-attachments/assets/e48ee8b8-0440-4397-94e2-8b4614836a25" />
+- [DartPad.Dev 다트 전용 코드플레이그라운드](https://dartpad.dev/)
