@@ -88,6 +88,34 @@ Dart 시작하기 강의 수강 시작!
     - <img width="252" alt="image" src="https://github.com/user-attachments/assets/6579e2af-a0a0-4a3a-944b-a29e58bb317b" />
   - 이것도 부득이할 때만 쓰는 거야. const를 권장하는 것과 같아.
   - 주로 API 호출할 때 쓴다.
+- const 상수: ❗️다트에서의 const는 자바스크립트/타입스크립트의 const와 다른 것이라고 한다. !!
+  - 자바스크립트/타입스크립트의 const는 dart의 final과 비슷함.
+  - dart의 const는 compile-time constant(컴파일 타임 상수)를 만들어준다.(이건 또 뭐냐..)
+  - 자, 그럼 다트에서 final과 const의 차이가 뭐냐.. 뭐가 다른 거냐
+    - ❗️const는 compile-time(컴파일 타임)에 알고 있는 값이어야 한다는 거다.
+    - 예를 들어, API키가 있다고 치면 컴파일러는 API의 변수 값을 몰라!
+      - <img width="256" alt="image" src="https://github.com/user-attachments/assets/cd9a3d61-4d57-4f65-9812-f0c7e1b45f38" />
+    - 즉, 이때는 final이 맞는 거.
+      - <img width="253" alt="image" src="https://github.com/user-attachments/assets/8c824bf5-5702-438d-9395-a28d04257ee0" />
+    - const 컴파일 할 때 알고 있는 값에 사용하는 것.
+    - 풀어서 설명하자면, 앱스토어에 앱을 올리기 전에 알고 있는 값이어야 한다는 것(하드코딩 된 값 같은 것들)
+  - ‼️요약(언제 어떤 변수를 사용해야하는지)
+    - const
+      - 앱 스토어에 앱을 올리기 전에 값을 알고 있는 값일 때.(하드코딩 된 값이면 해도 됌.)
+    - ‼️final, var
+      - ‼️어떤 값인지 모르고,
+      - ‼️그 값이 API로 부터 페칭되어 온다거나
+      - ‼️사용자가 화면에서 입력해야 하는 상호작용이 필요한 값일 때.
+  - const도 꽤 쓰인다고 한다.
+    - 특히 앱스토어에 올리기 전에 이미 알고 있는 값을 다룰 때.
+    - 예를 들어 max_allowed_price 등..
+    - ‼️앱에서 사용할 상수들이 있다면 const
+      - <img width="281" alt="image" src="https://github.com/user-attachments/assets/97a7b438-6e1f-4cb3-8499-13c61ff894d5" />
+
+
+
+
+
 
   
 
