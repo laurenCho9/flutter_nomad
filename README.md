@@ -151,7 +151,29 @@ Dart 시작하기 강의 수강 시작!
     - <img width="425" alt="image" src="https://github.com/user-attachments/assets/53d9f9b9-1a71-41b0-937d-2ae9c8375638" />
     - <img width="287" alt="image" src="https://github.com/user-attachments/assets/99ca1ca1-3af8-4a5b-9562-8a6e57c291bc" />
     - <img width="100" alt="image" src="https://github.com/user-attachments/assets/6c553d16-5a6e-4429-ae24-f4090e767860" />
-- 문자열 보간(String Interpolatio)
+- 문자열 보간(String Interpolatio): 자스/타스에서 ${title}이런 식으로 넣던 거랑 같은 거임.
+  - 인터폴레이션(interpolation)은 보간법, 즉, 알려진 값들을 이용하여 그 사이의 값을 추정하거나 예측하는 것을 의미.
+  - 쉽게 말해 text에 변수를 추가하는 방법이다.
+  - 아 이거 변수값 넣는 거 말하는 거네.
+  - 예시
+    - <img width="631" alt="image" src="https://github.com/user-attachments/assets/e2e5e18e-053c-4fe1-9875-5a63291ea94f" />
+    - <img width="463" alt="image" src="https://github.com/user-attachments/assets/31596c77-e730-4f48-97c9-9d77c7fa049a" />
+    - 큰 따옴표, 작은 따옴표 아무거나 상관없이 사용 가능
+    - 자스/타스에서 $달러사인뒤에 {}중괄호만 뺀 모양새.
+  - 변형 예시.. 여기엔 중괄호 붙네?
+    - <img width="617" alt="image" src="https://github.com/user-attachments/assets/f9f3b127-86c3-495d-8d41-a22a6fb4bb2d" />
+    - <img width="391" alt="image" src="https://github.com/user-attachments/assets/e9748784-67f4-4a3b-a974-eef07d49cb1e" />
+    - ...? 아 머야 둘 다 중괄호 붙여도 에러 안남
+    - ${age+2}로 + 사이에 띄어쓰기 안해도 에러 안남
+    - <img width="617" alt="image" src="https://github.com/user-attachments/assets/01fc0787-a597-4fe3-a54e-db3ca2032607" />
+    - 그리구 I'm에 따옴표 있어서 escape 기호(\)사용해줘야한다.(작은 따옴표로 감쌌을 경우, 겹치니까.)
+    - 나는 큰 따옴표 써서 상관없었음.(에러 안났음.)
+    - <img width="173" alt="image" src="https://github.com/user-attachments/assets/0b027e59-773b-415f-a1d0-622965eee9b8" />
+
+
+
+
+
 
 
 
