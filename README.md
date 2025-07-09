@@ -171,12 +171,13 @@ Dart 시작하기 강의 수강 시작!
     - <img width="173" alt="image" src="https://github.com/user-attachments/assets/0b027e59-773b-415f-a1d0-622965eee9b8" />
 - collection for
   - 뭐 이런 거..
-  - <img width="439" alt="image" src="https://github.com/user-attachments/assets/6ac88245-b82e-4e28-abe3-85f4b84e48a9" />
-  - <img width="495" alt="image" src="https://github.com/user-attachments/assets/c8fa2492-3ef9-4ef4-9fd3-833bc44b6ad9" />
+  - <img width="453" alt="image" src="https://github.com/user-attachments/assets/496dc7b3-34d2-4b99-9180-6bf6c1b4f812" />
+  - <img width="496" alt="image" src="https://github.com/user-attachments/assets/209e0707-e966-4091-976e-b052cdd10faf" />
   - 그리고 다른 방식으로 같은 값을 얻는 문법
   - (위 방식이 더 편리하다. 다트의 편의성/장점)
-  - <img width="435" alt="image" src="https://github.com/user-attachments/assets/6cab4650-e278-4f49-a0fc-0cfe59b43acb" />
-  - <img width="491" alt="image" src="https://github.com/user-attachments/assets/e8aa5334-e899-4837-843a-9dee1b79b1c3" />
+  - <img width="444" alt="image" src="https://github.com/user-attachments/assets/ca7223b7-6dd2-4cc3-92b0-3fe0c763495a" />
+  - <img width="500" alt="image" src="https://github.com/user-attachments/assets/21ddf406-2157-4939-826a-7764a7d6a1b2" />
+
 - maps
   - 
 
