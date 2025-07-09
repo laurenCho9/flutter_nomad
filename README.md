@@ -16,3 +16,8 @@ Dart 시작하기 강의 수강 시작!
     - 더 작은 전력의 아키텍쳐로도 변환이 가능하기 때문에 사물인터넷을 만드는데도 사용된다.
   - <img width="766" alt="image" src="https://github.com/user-attachments/assets/e48ee8b8-0440-4397-94e2-8b4614836a25" />
 - [DartPad.Dev 다트 전용 코드플레이그라운드](https://dartpad.dev/)
+  - 함수명은 main()이어야 하고,
+  - {}가 자바스크립트와는 다르게 반드시 있어야 하고,
+  - ;세미콜론이 없으면 에러 발생
+ 
+### 1. 변수
