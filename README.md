@@ -5,7 +5,7 @@ Dart 시작하기 강의 수강 시작!
 ### 0. 소개 
 정리
 - 다트는 객체지향 언어다.
-- <img width="833" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
+- <img width="540" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
 - 다트는 UI에 최적화 되어있다.
 - 생산적인 개발 환경을 가지고 있다.
 - 모든 플랫폼에서 빠르다.
@@ -14,10 +14,17 @@ Dart 시작하기 강의 수강 시작!
   - 다트 네이티브는 여러 CPU의 아키텍쳐에 맞게 변환해주는데, ARM32 등에 맞게 변환할 수 있다.
     - 이는 iOS, 안드로이드, 윈도우, 리눅스, 맥으로 컴파일 할 수 있다는 것을 의미한다.
     - 더 작은 전력의 아키텍쳐로도 변환이 가능하기 때문에 사물인터넷을 만드는데도 사용된다.
-  - <img width="766" alt="image" src="https://github.com/user-attachments/assets/e48ee8b8-0440-4397-94e2-8b4614836a25" />
+  - <img width="540" alt="image" src="https://github.com/user-attachments/assets/e48ee8b8-0440-4397-94e2-8b4614836a25" />
 - [DartPad.Dev 다트 전용 코드플레이그라운드](https://dartpad.dev/)
   - 함수명은 main()이어야 하고,
   - {}가 자바스크립트와는 다르게 반드시 있어야 하고,
-  - ;세미콜론이 없으면 에러 발생
+  - 세미콜론;이 없으면 에러 발생
  
 ### 1. 변수
+정리
+- void main() {}
+  - main 함수는 모든 다트 프로그램의 엔트리 포인트라서 없으면 안된다.
+  - 실제로 동작하는 코드는 반드시 main 함수 안에 넣어줘야 작동한다.
+  - 파이썬이랑 똑같은데 세미콜론; 유무 차이
+  - <img width="203" alt="image" src="https://github.com/user-attachments/assets/7d3ab1b1-0926-4625-89d7-9846bdd78611" />
+
