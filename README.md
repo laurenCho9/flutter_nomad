@@ -5,7 +5,7 @@ Dart 시작하기 강의 수강 시작!
 ### 0. 소개 
 정리
 - 다트는 객체지향 언어다.
-- <img width="240" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
+- <img width="460" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
 - 다트는 UI에 최적화 되어있다.
 - 생산적인 개발 환경을 가지고 있다.
 - 모든 플랫폼에서 빠르다.
