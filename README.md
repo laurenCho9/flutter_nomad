@@ -5,7 +5,7 @@ Dart 시작하기 강의 수강 시작!
 ### 0. 소개 
 정리
 - 다트는 객체지향 언어다.
-- <img width="540" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
+- <img width="240" alt="image" src="https://github.com/user-attachments/assets/43b8e12e-02da-481f-b9f5-cdc6c65a2551" />
 - 다트는 UI에 최적화 되어있다.
 - 생산적인 개발 환경을 가지고 있다.
 - 모든 플랫폼에서 빠르다.
@@ -44,7 +44,7 @@ Dart 시작하기 강의 수강 시작!
         - <img width="194" alt="image" src="https://github.com/user-attachments/assets/162ec8fa-3939-4c73-acf5-cfe646e32ebd" />
     - 타입 지정(타입 명시)
       - 클래스에서 변수나 프로퍼티를 선언할 때
-- 다이나믹 타입(타입스크립트의 any 타입 같은 느낌)
+- 다이나믹 타입: 타입스크립트의 any 타입 같은 느낌
   - 사용은 지양해야 하나, var를 선언 혹은 dynamic 이라고 선언하고 값이 안담긴 상태를 의미합니다.
     - <img width="146" alt="image" src="https://github.com/user-attachments/assets/870d2157-d72c-4d1a-83ea-12550c76d626" />
     - <img width="148" alt="image" src="https://github.com/user-attachments/assets/76e4ed60-fd36-42e9-a4e6-d2beb9009cac" />
@@ -53,9 +53,25 @@ Dart 시작하기 강의 수강 시작!
     - dynamic 으로 돌아가는 게 유용한 경우가 있기 때문에 존재.
   - dynamic을 쓰면 다트가 보호해준다?고 한다.(걍 타입 애매하면 dynamic쓰란 소리)
     - 추가 활용 예시
-    - <img width="195" alt="image" src="https://github.com/user-attachments/assets/b4958456-ced3-4cc8-bb2a-298a4617cc51" />
-    - <img width="247" alt="image" src="https://github.com/user-attachments/assets/9e7e651c-fc61-4adf-950f-50336b1ce394" />
+      - <img width="195" alt="image" src="https://github.com/user-attachments/assets/b4958456-ced3-4cc8-bb2a-298a4617cc51" />
+      - <img width="247" alt="image" src="https://github.com/user-attachments/assets/9e7e651c-fc61-4adf-950f-50336b1ce394" />
     - (근데 진짜 왠만하면 쓰지 마라..)
+- null safety(nullable): 이거 걍 옵셔널체이닝 ? 이거임. "없을 수도(null) 있다."니까 같다고 볼 수 있음.
+  - 문자열(String) 타입도 되고 값없음(null) 타입도 되었으면 할 때 ? 해주는 거임
+  - 예를 들어 문자열 타입 지정을 지정했는데 null 값을 name이라는 변수에 재할당 하면 에러 발생하는데(이미 name은 Strign타입이므로!)
+    - <img width="199" alt="image" src="https://github.com/user-attachments/assets/88fdb46b-0af9-499d-b543-7c89afb25837" />
+  - 타입 선언(String) 뒤에 ?를 붙여서 에러 해소
+    - <img width="215" alt="image" src="https://github.com/user-attachments/assets/edc11094-26d5-4f43-ac87-f55f31a2f7d4" />
+  - 어라? 변수(var) 선언에는 적용안된다.
+    - <img width="174" alt="image" src="https://github.com/user-attachments/assets/bf63776b-4d3a-48a9-bc7e-2122e96662e6" />
+    - <img width="195" alt="image" src="https://github.com/user-attachments/assets/bdeb6536-6026-4d15-85a9-805fcb5d0f38" />
+  - 추가 활용 예시
+    - name이 null이 아니라면, isNotEmpty 속성을 달라고 요청하는 코드.
+    - <img width="232" alt="image" src="https://github.com/user-attachments/assets/b8d31946-b186-4fd0-9caa-fce5681751df" />
+
+
+
+
 
 
  
