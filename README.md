@@ -68,6 +68,13 @@ Dart 시작하기 강의 수강 시작!
   - 추가 활용 예시
     - name이 null이 아니라면, isNotEmpty 속성을 달라고 요청하는 코드.
     - <img width="232" alt="image" src="https://github.com/user-attachments/assets/b8d31946-b186-4fd0-9caa-fce5681751df" />
+- final 변수: javascript나 typescript의 const와 동일하다.
+  - 한 번 정의된 변수를 수정할 수 없게 만든다.
+  - 타입 변경 방지, 동일한 타입의 값 재할당도 금지.
+    - <img width="204" alt="image" src="https://github.com/user-attachments/assets/c0ca7692-75fa-402b-8af9-f0872ad31f11" />
+  - final 뒤에 타입 명시하는 방법도 있지만, 타입추론이 되므로 필수가 아니다.(타입 추론 되는 것은 타입 추론되게 두라.)
+    - <img width="254" alt="image" src="https://github.com/user-attachments/assets/f168e28a-8719-4ce5-b6da-f775b7b4b300" />
+
 
 
 
