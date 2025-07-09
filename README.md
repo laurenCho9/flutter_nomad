@@ -26,5 +26,5 @@ Dart 시작하기 강의 수강 시작!
   - main 함수는 모든 다트 프로그램의 엔트리 포인트라서 없으면 안된다.
   - 실제로 동작하는 코드는 반드시 main 함수 안에 넣어줘야 작동한다.
   - 파이썬이랑 똑같은데 세미콜론; 유무 차이
-  - <img width="140" alt="image" src="https://github.com/user-attachments/assets/7d3ab1b1-0926-4625-89d7-9846bdd78611" />
+  - <img width="200" alt="image" src="https://github.com/user-attachments/assets/7d3ab1b1-0926-4625-89d7-9846bdd78611" />
 
