@@ -1,4 +1,4 @@
-# flutter_nomad
+<img width="255" alt="image" src="https://github.com/user-attachments/assets/bc35b0ac-05dc-4cfd-877f-140d8d9752c0" /># flutter_nomad
 ## 07.09
 Dart 시작하기 강의 수강 시작!
 
@@ -74,6 +74,20 @@ Dart 시작하기 강의 수강 시작!
     - <img width="204" alt="image" src="https://github.com/user-attachments/assets/c0ca7692-75fa-402b-8af9-f0872ad31f11" />
   - final 뒤에 타입 명시하는 방법도 있지만, 타입추론이 되므로 필수가 아니다.(타입 추론 되는 것은 타입 추론되게 두라.)
     - <img width="254" alt="image" src="https://github.com/user-attachments/assets/f168e28a-8719-4ce5-b6da-f775b7b4b300" />
+- late 변수
+  - 다트에서만 볼 수 있는 독창적 키워드인듯.
+  - late는 final이나 var 앞에 붙여줄 수 있는 수식어다.
+  - 아하.. late를 앞에 붙여주므로써, final(const와 동일)에 선언만 하고
+  - "최초 한 번 재할당이 가능한 구조"로 만들어줌.
+  - 선언한 name이라는 변수명에 "하윤"까지만 재할당이 되는 것을 확인할 수 있음.(이후 재할당 되는 건 전부 에러남)
+    - <img width="240" alt="image" src="https://github.com/user-attachments/assets/e27b476c-2a56-4e69-9580-78c59a929c1b" />
+    - <img width="240" alt="image" src="https://github.com/user-attachments/assets/8987ac54-8009-403a-bde9-f932353dc319" />
+  - 그리고 값을 넣기 전에 print 등으로 접근하려고 하면 에러난다.
+    - ❗️선언만 한 상태에서 값에 접근하려고 해서는 안된다.(변수에 값이 할당이 된 채로 접근해야 에러가 안난다.)
+    - <img width="255" alt="image" src="https://github.com/user-attachments/assets/1a47ffe1-77cc-497e-9c19-e1c88d354c1b" />
+    - <img width="252" alt="image" src="https://github.com/user-attachments/assets/6579e2af-a0a0-4a3a-944b-a29e58bb317b" />
+
+  
 
 
 
