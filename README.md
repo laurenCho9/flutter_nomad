@@ -189,6 +189,22 @@ Dart 시작하기 강의 수강 시작!
     - ❗️Object타입을 타쓰의 any라고 보면 된다.
     - (말 그대로 어떤 것이든지 올 수 있는 것.)
   - ‼️근데 Map타입은 왠만하면 쓰지말고 class쓰는 게 훨 좋다. Map 방식은 "지양"해라.
+- sets: 객체에 키 밸류 없이 값만 넣는 것.
+  - <img width="284" alt="image" src="https://github.com/user-attachments/assets/555f096e-580a-44f6-b76c-a4c9a349b9d0" />
+  - <img width="141" alt="image" src="https://github.com/user-attachments/assets/ca005274-0032-4e44-89e1-1a238ee1b63a" />
+  - <img width="690" alt="image" src="https://github.com/user-attachments/assets/d5fe30ca-6659-42a7-8278-c3472dd6d40c" />
+  - 이게 끝이다.
+  - 추가적인 특징으로는
+    - set 안의 값은 각각 유일하다.
+      - <img width="285" alt="image" src="https://github.com/user-attachments/assets/720b4a5c-f805-4599-8b77-296ee751ed70" />
+      - <img width="177" alt="image" src="https://github.com/user-attachments/assets/b927027f-86dc-4620-83a1-72834a228367" />
+      - 1을 두번 추가, 5를 한번 추가했는데 1이 여전히 하나임
+      - (❗️각각 유일한 값이므로, 중복되니까 추가 안된거임)
+    
+
+
+
+
 
 
 
