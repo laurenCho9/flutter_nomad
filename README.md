@@ -20,7 +20,7 @@ Dart 시작하기 강의 수강 시작!
   - {}가 자바스크립트와는 다르게 반드시 있어야 하고,
   - 세미콜론;이 없으면 에러 발생
  
-### 1. 변수
+### 1. 변수 종류
 정리
 - void main() {}
   - main 함수는 모든 다트 프로그램의 엔트리 포인트라서 없으면 안된다.
@@ -111,6 +111,52 @@ Dart 시작하기 강의 수강 시작!
     - 예를 들어 max_allowed_price 등..
     - ‼️앱에서 사용할 상수들이 있다면 const
       - <img width="281" alt="image" src="https://github.com/user-attachments/assets/97a7b438-6e1f-4cb3-8499-13c61ff894d5" />
+
+### 2. 데이터 타입(자료형) 종류
+- 기초 타입 종류
+  - String: 문자열 타입
+  - bool: 불리언 타입
+  - int: 숫자(정수) 타입
+  - double: 소수점을 포함한 숫자 타입
+    - (❗️이건 정수 넣어도 .00으로 인식하는지 에러가 안나지만, int에 소수점 값 할당하면 에러 나면서 double 쓰라고 안내해준다.)
+  - ❗️num: 정수일 수도 있고 소수점이 포함된 숫자 타입 모두에 적용해야할 경우 사용(권장인 듯.)
+    - <img width="240" alt="image" src="https://github.com/user-attachments/assets/5520f561-f293-4a47-9ff1-dbb8c42f957c" />
+    - <img width="240" alt="image" src="https://github.com/user-attachments/assets/9a19b9e0-b89c-49c3-b21d-25003bf75dd2" />
+  - 위 모든 자료형을 포함한 다트의 거의 모든 것은 객체(Object)로 이루어져 있다고 보면 된다.
+  - (function도 object니까..)
+  - Dart가 객체 지향 언어로 불리는 이유.
+- 목록 타입(List Type) 종류
+  - 마찬가지로 var로 선언해도 되지만, 타입 선언으로도 가능하다.(둘 다 똑같이 돌아감)
+    - <img width="280" alt="image" src="https://github.com/user-attachments/assets/7a2b66b8-74cb-433a-b773-386c7aae086a" />
+    - <img width="280" alt="image" src="https://github.com/user-attachments/assets/6e912e11-d44e-4b96-b455-436631974113" />
+  - 위에서도 언급했지만,
+    - ❗️함수 선언 안에 선언하는 건 var 등의(변수 선언) 방식을 사용하세요.("지향"하셔야 합니다.. 같은데, 음.. 에러는 안나는 부분이니까.. 회사 코드 컨벤션을 따르세요.)
+    - ❗️class를 다룰 때 자료형 명시(타입 선언) 방식을 사용하시요.
+  - (var 변수 선언 후 마우스 오버 시 어떤 타입인지 알 수 있음)
+    - <img width="735" alt="image" src="https://github.com/user-attachments/assets/bfddf809-e933-4f03-be22-81b34561e545" />
+  - collection if
+    - 다트 언어 등 몇 안되는 언어에 있는 방식으로,
+    - if로 존재할 수도 안할 수도 있는 요소를 Lists 안에 추가할 수 있게 해주는 문법이다.
+    - <img width="423" alt="image" src="https://github.com/user-attachments/assets/ecf4e6bf-f4d7-455f-a53e-c0d1f414a572" />
+    - (와.. 자스/타스 유저가 이런 말하기는 좀 그렇지만 생김새가 ㄹㅇ 괴랄하다.. 배열안에 if문을..😨)
+    - 아하, 왜 쓰나 했더니..
+      - giveMeFive의 값이 true일 경우,
+      - numbers 라는 변수에 담긴 배열 안에
+      - 숫자인 5가 추가되는 거라고 한다.
+      - 오..
+    - 이 코드랑 같은 거라고 한다.
+    - <img width="287" alt="image" src="https://github.com/user-attachments/assets/1c8abd03-6454-47da-acf7-2d2f28db94e2" />
+      - 확실히 더 편리해보이기는 하네..
+    - print로 출력해보면 배열 끝에 5가 추가된 것을 볼 수 있다.
+    - <img width="425" alt="image" src="https://github.com/user-attachments/assets/53d9f9b9-1a71-41b0-937d-2ae9c8375638" />
+    - <img width="287" alt="image" src="https://github.com/user-attachments/assets/99ca1ca1-3af8-4a5b-9562-8a6e57c291bc" />
+    - <img width="100" alt="image" src="https://github.com/user-attachments/assets/6c553d16-5a6e-4429-ae24-f4090e767860" />
+- 문자열 보간(String Interpolatio)
+
+
+
+       
+
 
 
 
