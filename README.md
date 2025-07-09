@@ -1,4 +1,4 @@
-<img width="255" alt="image" src="https://github.com/user-attachments/assets/bc35b0ac-05dc-4cfd-877f-140d8d9752c0" /># flutter_nomad
+# flutter_nomad
 ## 07.09
 Dart 시작하기 강의 수강 시작!
 
@@ -169,7 +169,7 @@ Dart 시작하기 강의 수강 시작!
     - 그리구 I'm에 따옴표 있어서 escape 기호(\)사용해줘야한다.(작은 따옴표로 감쌌을 경우, 겹치니까.)
     - 나는 큰 따옴표 써서 상관없었음.(에러 안났음.)
     - <img width="173" alt="image" src="https://github.com/user-attachments/assets/0b027e59-773b-415f-a1d0-622965eee9b8" />
-
+- collection for
 
 
 
