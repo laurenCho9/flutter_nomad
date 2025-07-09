@@ -177,9 +177,20 @@ Dart 시작하기 강의 수강 시작!
   - (위 방식이 더 편리하다. 다트의 편의성/장점)
   - <img width="444" alt="image" src="https://github.com/user-attachments/assets/ca7223b7-6dd2-4cc3-92b0-3fe0c763495a" />
   - <img width="500" alt="image" src="https://github.com/user-attachments/assets/21ddf406-2157-4939-826a-7764a7d6a1b2" />
+- maps: 객체 타입(키 밸류들 나열 된 거.)
+  - <img width="302" alt="image" src="https://github.com/user-attachments/assets/d9f6b4e3-7851-4b08-b976-bc5b5be7282e" />
+  - <img width="674" alt="image" src="https://github.com/user-attachments/assets/8fb751fe-a3e3-4e28-a69d-f33184c53ec8" />
+  - <img width="533" alt="image" src="https://github.com/user-attachments/assets/701468ff-0473-430e-9365-fa4f04b0ecd6" />
+  - 이 변수형의 자료형은 Map<String, Object>인데,
+    - 그 이유는 key와 value로 이루어진 자료구조 Map을 만들었다는 것.
+    - key는 String타입, value를 Object타입이라고 한다.
+  - 왜 value가 Object야?
+    - 다트에서는 모든게 객체로부터 생겨서 Object는 기본적으로 어떤 자료형이든지 될 수 있다.
+    - ❗️Object타입을 타쓰의 any라고 보면 된다.
+    - (말 그대로 어떤 것이든지 올 수 있는 것.)
+  - ‼️근데 Map타입은 왠만하면 쓰지말고 class쓰는 게 훨 좋다. Map 방식은 "지양"해라.
 
-- maps
-  - 
+
 
 
 
