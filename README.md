@@ -86,6 +86,8 @@ Dart 시작하기 강의 수강 시작!
     - ❗️선언만 한 상태에서 값에 접근하려고 해서는 안된다.(변수에 값이 할당이 된 채로 접근해야 에러가 안난다.)
     - <img width="255" alt="image" src="https://github.com/user-attachments/assets/1a47ffe1-77cc-497e-9c19-e1c88d354c1b" />
     - <img width="252" alt="image" src="https://github.com/user-attachments/assets/6579e2af-a0a0-4a3a-944b-a29e58bb317b" />
+  - 이것도 부득이할 때만 쓰는 거야. const를 권장하는 것과 같아.
+  - 주로 API 호출할 때 쓴다.
 
   
 
