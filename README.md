@@ -214,8 +214,9 @@ Dart 시작하기 강의 수강 시작!
     - <img width="824" alt="image" src="https://github.com/user-attachments/assets/18778772-668d-479e-b0a8-65f57ea10ac7" />
     - <img width="731" alt="image" src="https://github.com/user-attachments/assets/2034b7d5-6d4a-42aa-b458-6ebd86761a6b" />
 
-### 함수
-
+### 함수 종류
+- 함수의 정의
+- 
 
 
 
