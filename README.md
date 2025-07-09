@@ -189,7 +189,7 @@ Dart 시작하기 강의 수강 시작!
     - ❗️Object타입을 타쓰의 any라고 보면 된다.
     - (말 그대로 어떤 것이든지 올 수 있는 것.)
   - ‼️근데 Map타입은 왠만하면 쓰지말고 class쓰는 게 훨 좋다. Map 방식은 "지양"해라.
-- sets: 객체에 키 밸류 없이 값만 넣는 것.
+- sets: 객체{}에 키 밸류 없이 값만 넣는 것.
   - <img width="284" alt="image" src="https://github.com/user-attachments/assets/555f096e-580a-44f6-b76c-a4c9a349b9d0" />
   - <img width="141" alt="image" src="https://github.com/user-attachments/assets/ca005274-0032-4e44-89e1-1a238ee1b63a" />
   - <img width="690" alt="image" src="https://github.com/user-attachments/assets/d5fe30ca-6659-42a7-8278-c3472dd6d40c" />
@@ -200,7 +200,25 @@ Dart 시작하기 강의 수강 시작!
       - <img width="177" alt="image" src="https://github.com/user-attachments/assets/b927027f-86dc-4620-83a1-72834a228367" />
       - 1을 두번 추가, 5를 한번 추가했는데 1이 여전히 하나임
       - (❗️각각 유일한 값이므로, 중복되니까 추가 안된거임)
-    
+  - 만약에 list타입을 썼으면 1을 세번 추가했을 때 전부 뒤에 추가된 게 보임
+    - <img width="646" alt="image" src="https://github.com/user-attachments/assets/97f3447b-fc3d-421f-8a35-f1d029d52562" />
+    - <img width="685" alt="image" src="https://github.com/user-attachments/assets/fa47c8c9-abed-4916-88e9-e9555ee4d91e" />
+  - 그럼 list랑 set은 각각 언제 써야해?
+    - 요소가 항상 하나씩만 있어야 되면 set을 써주면 돼.
+    - 그게 아니라면 list를 써야겠지.
+  - 다트에서
+    - list는 파이썬의 list와 같고(자스의 배열 array)
+    - set은 파이썬의 tuple과 같다는데..(자스의 걍 객체object임)
+  - 자스에도 Set이 있어! 라는데 다른 방식일 걸..
+    - 찾아봄.
+    - <img width="824" alt="image" src="https://github.com/user-attachments/assets/18778772-668d-479e-b0a8-65f57ea10ac7" />
+    - <img width="731" alt="image" src="https://github.com/user-attachments/assets/2034b7d5-6d4a-42aa-b458-6ebd86761a6b" />
+
+### 함수
+
+
+
+
 
 
 
