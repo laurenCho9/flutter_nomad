@@ -216,7 +216,33 @@ Dart 시작하기 강의 수강 시작!
 
 ### 함수 종류
 - 함수의 정의
-- 
+  - 플러터의 함수 표기 방법
+  - <img width="553" height="104" alt="image" src="https://github.com/user-attachments/assets/f4faafb7-6357-4519-a6e9-220c774b55c5" />
+  - <img width="321" height="37" alt="image" src="https://github.com/user-attachments/assets/78ed996b-6d02-4acc-8d95-807b163e2135" />
+  - <img width="332" height="106" alt="image" src="https://github.com/user-attachments/assets/b4f4c86d-3ab2-4d08-9345-2a93a83741ae" />
+  - <img width="169" height="34" alt="image" src="https://github.com/user-attachments/assets/5d8db630-9e88-476f-bc4a-d8233aced8c5" />
+- 이름이 지정된 매개변수(인자)
+  - 다트의 함수는 named parameter라는 걸 지원해.(❗️플러터에서 자주 사용되는 개념)
+  - 아.. 이거 걍 함수 안에 키 밸류 값 담아서 쏘는 거 잖아..
+  - 에러 발생
+    - <img width="535" height="132" alt="image" src="https://github.com/user-attachments/assets/69fde0a7-0608-48f6-aacf-745d752fa4b6" />
+    - <img width="651" height="420" alt="image" src="https://github.com/user-attachments/assets/a4d27fb7-bd11-44b7-8ea1-9246fb31b173" />
+  - 원인은?
+    - <img width="774" height="349" alt="image" src="https://github.com/user-attachments/assets/b160d59a-0422-43d2-936a-4dbc335b8cf5" />
+    - null safety란?
+    - <img width="529" height="139" alt="image" src="https://github.com/user-attachments/assets/7de98834-67e2-4d68-85ce-9accbf6e14cc" />
+      - 미리 값을 지정해줘야 한다.
+      - 예시1)에러는 막았지만, 나쁜 예시
+        - <img width="655" height="135" alt="image" src="https://github.com/user-attachments/assets/48ff6745-7f08-4083-a6c7-f4800b5ec06b" />
+        - <img width="419" height="39" alt="image" src="https://github.com/user-attachments/assets/9eb48b0b-8e1b-41c2-8e27-497f493ca610" />
+      - 예시2)required 키워드 사용 (추천)
+        - 
+
+
+
+
+
+
 
 
 
