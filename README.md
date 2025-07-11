@@ -244,6 +244,22 @@ Dart 시작하기 강의 수강 시작!
         - 이렇게 하면 name, age, country 중 하나라도 빠졌을 때 기본값으로 대체됩니다.
         - <img width="550" height="136" alt="image" src="https://github.com/user-attachments/assets/f17bef39-9efd-45f9-a424-d42968482f6c" />
         - <img width="414" height="37" alt="image" src="https://github.com/user-attachments/assets/9789a7d2-0c54-4610-bc24-d60598101229" />
+- 선택적 위치 매개변수
+  - 함수의 위치 기반 매개변수 중 선택적으로 넘길 수 있는 매개변수를 의미합니다.
+    - <img width="733" height="164" alt="image" src="https://github.com/user-attachments/assets/15a9da38-d0e3-416c-bf1f-2d976c64022e" />
+    - <img width="530" height="41" alt="image" src="https://github.com/user-attachments/assets/3f04642c-e13d-47cf-a18d-fd808c0ec877" />
+    - 음... 특정한 게 빈값일 때 어떤 값을 보여줘야 한다면.. 쓸 수 있겠네.
+    - 약간 느낌이 삼항연산자 써야할 때 느낌이네.
+- QQ 연산자(=null 병합 연산자)
+  - 아.. 이거 && 연산자로 true 값 보여주는 방식이다.
+    - <img width="612" height="136" alt="image" src="https://github.com/user-attachments/assets/480590d6-4cee-4d3b-ba57-2fa3b60ce159" />
+    - <img width="290" height="62" alt="image" src="https://github.com/user-attachments/assets/313fa594-323d-4a8d-97b2-2ca85faf8084" />
+  - 기타 보너스 연산자 예시
+    - <img width="218" height="174" alt="image" src="https://github.com/user-attachments/assets/8f835903-04fe-4d73-b9f6-9f89cf4bed3c" />
+    - <img width="174" height="41" alt="image" src="https://github.com/user-attachments/assets/a4f7b656-58c3-42fe-8131-17703cac0bf5" />
+
+
+
 
 
 
