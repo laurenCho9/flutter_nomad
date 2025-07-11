@@ -232,11 +232,21 @@ Dart 시작하기 강의 수강 시작!
     - null safety란?
     - <img width="529" height="139" alt="image" src="https://github.com/user-attachments/assets/7de98834-67e2-4d68-85ce-9accbf6e14cc" />
       - 미리 값을 지정해줘야 한다.
-      - 예시1)에러는 막았지만, 나쁜 예시
+      - 예시1)에러는 막았지만, 나쁜 예시(이따위로 써서 해결하면 개발자이길 포기해야지..)
         - <img width="655" height="135" alt="image" src="https://github.com/user-attachments/assets/48ff6745-7f08-4083-a6c7-f4800b5ec06b" />
         - <img width="419" height="39" alt="image" src="https://github.com/user-attachments/assets/9eb48b0b-8e1b-41c2-8e27-497f493ca610" />
-      - 예시2)required 키워드 사용 (추천)
-        - 
+      - 예시2)‼️ required 키워드 사용 (추천👍)
+        - 이렇게 하면 null이 아닌 값을 무조건 전달하도록 강제됩니다.
+        - 보통 모든 값이 반드시 필요한 경우는 required가 가장 깔끔합니다.
+        - <img width="566" height="190" alt="image" src="https://github.com/user-attachments/assets/9bb4ee61-9f1f-437c-915a-4613de7c3a9b" />
+        - <img width="440" height="41" alt="image" src="https://github.com/user-attachments/assets/77071ee3-cddf-461b-904f-e9317315d553" />
+      - 예시3)nullable 타입로 선언 + 기본값 지정 (선택적 인자 처리)
+        - 이렇게 하면 name, age, country 중 하나라도 빠졌을 때 기본값으로 대체됩니다.
+        - <img width="550" height="136" alt="image" src="https://github.com/user-attachments/assets/f17bef39-9efd-45f9-a424-d42968482f6c" />
+        - <img width="414" height="37" alt="image" src="https://github.com/user-attachments/assets/9789a7d2-0c54-4610-bc24-d60598101229" />
+
+
+
 
 
 
