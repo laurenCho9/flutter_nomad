@@ -260,8 +260,9 @@ Dart 시작하기 강의 수강 시작!
 - typedef(타입뎊)
   - 함수 타입에 별명을 지어주는 기능
   - 함수의 **시그니처(매개변수, 반환 타입)**가 복잡하거나 여러 번 재사용될 때 가독성을 높이고 유지보수를 쉽게 하기 위해 사용
-  - <img width="779" height="393" alt="image" src="https://github.com/user-attachments/assets/62725198-8aef-4926-8af3-c380eb77a1d8" />
-    - 아.. 이거 타입스크립트의 type alias랑 비슷한 느낌인데
+  - <img width="600" height="393" alt="image" src="https://github.com/user-attachments/assets/62725198-8aef-4926-8af3-c380eb77a1d8" />
+  
+  - 아.. 이거 타입스크립트의 type alias랑 비슷한 느낌인데
     - 예시)
       - <img width="451" height="199" alt="image" src="https://github.com/user-attachments/assets/b34b6ba0-02de-4172-8655-80092b049665" />
       - <img width="207" height="43" alt="image" src="https://github.com/user-attachments/assets/5f193194-ad3f-4aaa-9f99-df95a5dae866" />
