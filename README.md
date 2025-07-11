@@ -257,6 +257,20 @@ Dart 시작하기 강의 수강 시작!
   - 기타 보너스 연산자 예시
     - <img width="218" height="174" alt="image" src="https://github.com/user-attachments/assets/8f835903-04fe-4d73-b9f6-9f89cf4bed3c" />
     - <img width="174" height="41" alt="image" src="https://github.com/user-attachments/assets/a4f7b656-58c3-42fe-8131-17703cac0bf5" />
+- typedef(타입뎊)
+  - 함수 타입에 별명을 지어주는 기능
+  - 함수의 **시그니처(매개변수, 반환 타입)**가 복잡하거나 여러 번 재사용될 때 가독성을 높이고 유지보수를 쉽게 하기 위해 사용
+  - <img width="779" height="393" alt="image" src="https://github.com/user-attachments/assets/62725198-8aef-4926-8af3-c380eb77a1d8" />
+    - 아.. 이거 타입스크립트의 type alias랑 비슷한 느낌인데
+    - 예시)
+      - <img width="451" height="199" alt="image" src="https://github.com/user-attachments/assets/b34b6ba0-02de-4172-8655-80092b049665" />
+      - <img width="207" height="43" alt="image" src="https://github.com/user-attachments/assets/5f193194-ad3f-4aaa-9f99-df95a5dae866" />
+    - 심화 예시)
+      - <img width="377" height="185" alt="image" src="https://github.com/user-attachments/assets/021754a3-ef98-4b6c-949b-58ec35bc148b" />
+      - 대놓고 alias라고 하는 거 보면 타쓰의 타입 앨리아스랑 비슷한 듯. 다만, 함수의 타입을 지정한다는 것으로 국한된다는 것이 차이인 듯.
+
+
+
 
 
 
