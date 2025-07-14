@@ -301,6 +301,16 @@ Dart 시작하기 강의 수강 시작!
 - Abstract Classes(추상화 클래스)
   - <img width="677" height="608" alt="image" src="https://github.com/user-attachments/assets/b514d40d-28ca-49f0-b1b9-f7fc1a19d4cb" />
   - <img width="244" height="62" alt="image" src="https://github.com/user-attachments/assets/e14188a5-5b42-4801-90ed-c9035c555135" />
+- Inheritance(상속)
+  - 가끔씩만 사용하겠지만, 중요한 개념이다.
+    - <img width="594" height="392" alt="image" src="https://github.com/user-attachments/assets/a80c78f7-cc67-4873-b8d8-8e18e7810f29" />
+    - <img width="183" height="39" alt="image" src="https://github.com/user-attachments/assets/e7b34c5d-e4c0-455d-9433-2a813fc97a2b" />
+  - @override를 활용한 방법
+    - <img width="590" height="519" alt="image" src="https://github.com/user-attachments/assets/f3fe2676-856e-48f8-aa3f-9495c110c646" />
+    - <img width="258" height="58" alt="image" src="https://github.com/user-attachments/assets/70dc4da0-d6cd-44f3-aae9-405ad1acfc70" />
+
+
+
 
 
 
