@@ -277,6 +277,12 @@ Dart 시작하기 강의 수강 시작!
 - Constructors(생성자): 클래스의 인스턴스를 만들 때 사용되는 특별한 메서드
   - <img width="366" height="334" alt="image" src="https://github.com/user-attachments/assets/0ad9ab93-a793-47fb-a3a3-9547b63981fd" />
   - <img width="192" height="62" alt="image" src="https://github.com/user-attachments/assets/749d97a8-effc-4e1a-a0c8-e74f4aed943d" />
+- Named Constructor Parameters(이름있는 생성자 매개변수)
+  - <img width="628" height="465" alt="image" src="https://github.com/user-attachments/assets/3a3d1c68-fa78-48f2-a3a6-9feaa5cde75b" />
+  - <img width="226" height="62" alt="image" src="https://github.com/user-attachments/assets/2731fc28-6a44-445f-bcbb-f4ba1df29a0a" />
+- Named Constructors(이름있는 생성자)
+  - <img width="598" height="673" alt="image" src="https://github.com/user-attachments/assets/10641ae6-bfe5-4a08-84ae-40f3cc2c2861" />
+  - <img width="250" height="60" alt="image" src="https://github.com/user-attachments/assets/bed07c5b-9297-4e02-a7be-3a7f66c445e6" />
 
 
 
