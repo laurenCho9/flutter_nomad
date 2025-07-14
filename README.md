@@ -283,6 +283,10 @@ Dart 시작하기 강의 수강 시작!
 - Named Constructors(이름있는 생성자)
   - <img width="598" height="673" alt="image" src="https://github.com/user-attachments/assets/10641ae6-bfe5-4a08-84ae-40f3cc2c2861" />
   - <img width="250" height="60" alt="image" src="https://github.com/user-attachments/assets/bed07c5b-9297-4e02-a7be-3a7f66c445e6" />
+- Constructors(생성자 관련 내용 복습)
+  - <img width="546" height="502" alt="image" src="https://github.com/user-attachments/assets/82994a24-6ae7-4950-847a-21f2e5fd8bf5" />
+  - <img width="436" height="82" alt="image" src="https://github.com/user-attachments/assets/b77e8e30-13ca-478e-9ceb-f7e18e6e8513" />
+
 
 
 
