@@ -286,6 +286,17 @@ Dart 시작하기 강의 수강 시작!
 - Constructors(생성자 관련 내용 복습)
   - <img width="546" height="502" alt="image" src="https://github.com/user-attachments/assets/82994a24-6ae7-4950-847a-21f2e5fd8bf5" />
   - <img width="436" height="82" alt="image" src="https://github.com/user-attachments/assets/b77e8e30-13ca-478e-9ceb-f7e18e6e8513" />
+- Cascade Notation(캐스케이드 표기법)
+  - ..(점 두 개)**을 사용하여 하나의 객체에 대해 여러 메서드나 프로퍼티를 연달아 호출할 수 있게 해주는 문법으로 Dart 언어 자체의 기능이다.
+  - 주로 Flutter에서 UI 위젯을 설정할 때 자주 사용된다.
+    - <img width="603" height="352" alt="image" src="https://github.com/user-attachments/assets/6d25c90f-86f1-4b71-a164-d68b05313b9b" />
+    - <img width="419" height="83" alt="image" src="https://github.com/user-attachments/assets/b016a287-8716-4437-84d3-0aebdd2b0660" />
+  - class 생성 직후가 아니어도(나중이어도) 할 수 있다.
+    - <img width="604" height="389" alt="image" src="https://github.com/user-attachments/assets/27e970bb-5012-4bf4-afb0-0b6eaa8d1cd4" />
+    - <img width="437" height="44" alt="image" src="https://github.com/user-attachments/assets/2ca1e9bf-dc3f-41cd-8da3-33bb4e7fff32" />
+
+
+
 
 
 
