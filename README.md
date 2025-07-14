@@ -294,6 +294,17 @@ Dart 시작하기 강의 수강 시작!
   - class 생성 직후가 아니어도(나중이어도) 할 수 있다.
     - <img width="604" height="389" alt="image" src="https://github.com/user-attachments/assets/27e970bb-5012-4bf4-afb0-0b6eaa8d1cd4" />
     - <img width="437" height="44" alt="image" src="https://github.com/user-attachments/assets/2ca1e9bf-dc3f-41cd-8da3-33bb4e7fff32" />
+- Enums(이넘)
+  - <img width="605" height="462" alt="image" src="https://github.com/user-attachments/assets/9c8045da-1f82-4220-aec7-5b1730bbdcfd" />
+  - <img width="508" height="46" alt="image" src="https://github.com/user-attachments/assets/18809484-b8eb-4908-8f22-2d824e0b2045" />
+  - 뭔가 좀.. 이상한데 결과값 예시가 이렇게 뜨면 안되는 거 아닌가?;
+- Abstract Classes(추상화 클래스)
+  - <img width="677" height="608" alt="image" src="https://github.com/user-attachments/assets/b514d40d-28ca-49f0-b1b9-f7fc1a19d4cb" />
+  - <img width="244" height="62" alt="image" src="https://github.com/user-attachments/assets/e14188a5-5b42-4801-90ed-c9035c555135" />
+
+
+
+
 
 
 
