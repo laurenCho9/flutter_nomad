@@ -308,6 +308,11 @@ Dart 시작하기 강의 수강 시작!
   - @override를 활용한 방법
     - <img width="590" height="519" alt="image" src="https://github.com/user-attachments/assets/f3fe2676-856e-48f8-aa3f-9495c110c646" />
     - <img width="258" height="58" alt="image" src="https://github.com/user-attachments/assets/70dc4da0-d6cd-44f3-aae9-405ad1acfc70" />
+- Mixins(믹스인)
+  - 자주 사용된다.
+  - 생성자가 없는 클래스를 의미한다.
+    - <img width="476" height="575" alt="image" src="https://github.com/user-attachments/assets/dab98120-a444-42fa-8435-5bc0c2c25d9a" />
+    - <img width="256" height="47" alt="image" src="https://github.com/user-attachments/assets/93a9b1e2-df6a-471c-b186-9372cb9eefce" />
 
 
 
