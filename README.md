@@ -1,4 +1,4 @@
-# flutter_nomad
+<img width="285" height="228" alt="image" src="https://github.com/user-attachments/assets/090a1e01-6655-44d9-8d56-0f36af499811" /># flutter_nomad
 ## 07.09
 Dart 시작하기 강의 수강 시작!
 
@@ -214,7 +214,7 @@ Dart 시작하기 강의 수강 시작!
     - <img width="824" alt="image" src="https://github.com/user-attachments/assets/18778772-668d-479e-b0a8-65f57ea10ac7" />
     - <img width="731" alt="image" src="https://github.com/user-attachments/assets/2034b7d5-6d4a-42aa-b458-6ebd86761a6b" />
 
-### 함수 종류
+### 함수 사용법의 종류
 - 함수의 정의
   - 플러터의 함수 표기 방법
   - <img width="553" height="104" alt="image" src="https://github.com/user-attachments/assets/f4faafb7-6357-4519-a6e9-220c774b55c5" />
@@ -269,6 +269,17 @@ Dart 시작하기 강의 수강 시작!
     - 심화 예시)
       - <img width="377" height="185" alt="image" src="https://github.com/user-attachments/assets/021754a3-ef98-4b6c-949b-58ec35bc148b" />
       - 대놓고 alias라고 하는 거 보면 타쓰의 타입 앨리아스랑 비슷한 듯. 다만, 함수의 타입을 지정한다는 것으로 국한된다는 것이 차이인 듯.
+
+### ‼️클래스 사용법의 종류(다트의 핵심)
+- 다트 클래스 첫걸음
+  - <img width="285" height="228" alt="image" src="https://github.com/user-attachments/assets/21027b9d-a486-4531-a0e8-4b9e9202b10b" />
+  - <img width="244" height="68" alt="image" src="https://github.com/user-attachments/assets/031fb1d1-e6c2-48c8-b2c2-47bbebf65641" />
+- Constructors(생성자): 클래스의 인스턴스를 만들 때 사용되는 특별한 메서드
+  - <img width="366" height="334" alt="image" src="https://github.com/user-attachments/assets/0ad9ab93-a793-47fb-a3a3-9547b63981fd" />
+  - <img width="192" height="62" alt="image" src="https://github.com/user-attachments/assets/749d97a8-effc-4e1a-a0c8-e74f4aed943d" />
+
+
+
 
 
 
